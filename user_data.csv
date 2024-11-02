@@ -1,0 +1,3 @@
+age,gender,income,expenses
+12,Female,200000,"{'utilities': '100', 'entertainment': '20000', 'school_fees': '10000', 'shopping': '150', 'healthcare': '200'}"
+12,Male,700000,"{'utilities': '20000', 'entertainment': '30000', 'school_fees': '29990', 'shopping': '20000', 'healthcare': '30000'}"
